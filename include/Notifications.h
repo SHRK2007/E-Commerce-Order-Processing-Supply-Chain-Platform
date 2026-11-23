@@ -1,4 +1,3 @@
-
 #ifndef NOTIFICATIONS_H
 #define NOTIFICATIONS_H
 
@@ -13,6 +12,8 @@ public:
 
     virtual ~NotificationService() {}
 };
+
+
 
 class EmailNotification : public NotificationService {
 public:
