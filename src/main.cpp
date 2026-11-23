@@ -11,9 +11,9 @@ using namespace std;
 
 int main() {
 
-    cout << "====================================\n";
+    cout << "\n";
     cout << " E-COMMERCE ORDER PROCESSING SYSTEM\n";
-    cout << "====================================\n";
+    cout << "\n";
 
     // 1. Vendor and Catalog
     cout << "\n===== VENDOR & CATALOG =====\n";
